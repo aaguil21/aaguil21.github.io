@@ -2384,6 +2384,8 @@ input[type="radio"]:focus+label:before {
 	font-family: 'Font Awesome 5 Brands';
 }
 
+
+
 .icon.major {
 	border: solid 1px;
 	display: inline-block;
